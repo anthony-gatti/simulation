@@ -1,10 +1,3 @@
-/*
-Anthony Gatti
-Assignment 4
-This program simulates the operation of a store to provide the owner with insight
-Created using VS Code
-*/
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
